@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*****************/
+/*  WHiteny      */
+/*****************/
+
+@font-face{
+    font-family: Whiteny;
+    font-weight:300;
+    src:url(fonts/Whiteny/Whiteny-300.woff) format("woff");
+
+}
+
+@font-face{
+    font-family: Whiteny;
+    font-weight:400;
+    src:url(fonts/Whiteny/Whiteny-400.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Whiteny;
+    font-weight:500;
+    src:url(fonts/Whiteny/Whiteny-500.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Whiteny;
+    font-weight:600;
+    src:url(fonts/Whiteny/Whiteny-600.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Whiteny;
+    font-weight:700;
+    src:url(fonts/Whiteny/Whiteny-700.woff) format("woff");
+    
+}
+
+/*****************/
+/*  Gianto      */
+/*****************/
+
+@font-face{
+    font-family: Ginto;
+    font-weight:300;
+    src:url(fonts/Ginto/Ginto-300.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Ginto;
+    font-weight:400;
+    src:url(fonts/Ginto/Ginto-400.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Ginto;
+    font-weight:500;
+    src:url(fonts/Ginto/Ginto-500.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Ginto;
+    font-weight:600;
+    src:url(fonts/Ginto/Ginto-600.woff) format("woff");
+    
+}
+
+@font-face{
+    font-family: Ginto;
+    font-weight:700;
+    src:url(fonts/Ginto/Ginto-700.woff) format("woff");
+    
+}
+
+/*****************/
+/*  Gianto Nord     */
+/*****************/
+
+@font-face{
+    font-family: Gianto Nord ;
+    font-weight:500;
+    src:url(fonts/Ginto-Nord/Ginto-Nord-500.woff2) format("woff2"),
+    url(font/Ginto-Nord/Ginto-Nord.woff) format("woff");
+    
+}
